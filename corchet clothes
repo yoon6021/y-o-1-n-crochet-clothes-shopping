@@ -1,0 +1,5 @@
+JavaScript (script.js)
+
+let cart = [];
+
+function addToCart(product) { cart.push(product); alert("Added to cart: product); } 11 +
